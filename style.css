@@ -61,7 +61,7 @@ h2 {
 /* Hero-Bereich */
 #home {
     text-align: center;
-    background: url('images/hero.jpg') no-repeat center center;
+    background: url('hero.jpg') no-repeat center center;
     background-size: cover;
     color: rgb(84, 5, 189);
     padding: 0;       /* optional, dann füllt die Höhe komplett */
@@ -95,6 +95,7 @@ footer {
     text-align: center;
     font-size: 0.9em;
 }
+
 
 
 
